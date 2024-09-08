@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamtan-github
+- 👋 Hi, I’m @witan
 - 👀 I’m interested in Ada programming and Agile process
 - 🌱 I’m currently learning ElasticSearch BDD
 
